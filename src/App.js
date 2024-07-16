@@ -3,6 +3,8 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 import DbPage from './pages/DashBoard/dbPage';
 import LoginPage from './pages/Login/loginPage'; 
+import '@fortawesome/fontawesome-free/css/all.min.css';
+
 
 function App() {
   return (
